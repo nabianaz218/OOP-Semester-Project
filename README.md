@@ -44,5 +44,5 @@ The **Social Media Analyzer** is a Java-based application designed to track and 
 ---
 
 ### **Submission Deliverables**
-* **Video Link:** [INSERT YOUR LINK HERE]  
+* **Video Link:** https://drive.google.com/file/d/1MOGCsTEymGwD7DI3uQvlL7zO-q_WrRRZ/view?usp=sharing  
 * **GitHub Repo:** [https://github.com/nabianaz218/OOP-Semester-Project]
